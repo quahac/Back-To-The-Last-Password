@@ -21,7 +21,7 @@ When performing International Red Teaming, you might find yourself working with 
 
 https://github.com/user-attachments/assets/7613c29f-233f-4d4f-a884-95f135208412
 
-- **Azure AD Password Checker**: `js script` [https://github.com/quahac/Azure-AD-Password-Checker](https://github.com/quahac/Azure-AD-Password-Checker)
+
 - **Ldapdomaindump**: `domain_users.json` [https://github.com/dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump)
 
 
@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/6d1d0bbe-e145-48d3-9948-db76b774cd09
 https://github.com/user-attachments/assets/190012d2-134b-465b-b7a7-2a28216f5a38
 
 
-
+- **Azure AD Password Checker**: `js script` [https://github.com/quahac/Azure-AD-Password-Checker](https://github.com/quahac/Azure-AD-Password-Checker)
 
    #### Steps to Use the "Azure AD Password Checker" js script 
 
