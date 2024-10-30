@@ -14,9 +14,14 @@ When performing International Red Teaming, you might find yourself working with 
 
 ## Input Data
 - **No Data to Upload**: Select Country, Language and Date and you can  generate passwords and wordlist
+
+https://github.com/user-attachments/assets/7613c29f-233f-4d4f-a884-95f135208412
+
 - **Azure AD Password Checker**: `js script` [https://github.com/quahac/Azure-AD-Password-Checker](https://github.com/quahac/Azure-AD-Password-Checker)
-- **Ldapdomaindump**: `domain_users.json` [https://github.com/dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump)  
+- **Ldapdomaindump**: `domain_users.json` [https://github.com/dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump)
 - **Roadrecon**: `roadrecon.db` [https://github.com/dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools)
+
+
 
 
    #### Steps to Use the "Azure AD Password Checker" js script 
