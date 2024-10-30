@@ -108,6 +108,13 @@ The application has been tested on the following systems and browsers:
 - Edge (version 130 and above) (en-us)
 - Chrome (version 130 and above; some languages may not work) (en-us)
 
+### Limitations
+
+- **Apple IOS**: Running HTML and JavaScript files directly from the file system without a web server is restricted on iOS. This limitation is primarily due to security measures that prevent unauthorized access to local files.
+- **Workaround**: To work around this limitation
+   - **Use a Local Web Server**: Set up a local web server within the app using libraries like [GCDWebServer](https://github.com/swisspol/GCDWebServer). This allows you to serve HTML and JavaScript files from the app's bundle, enabling them to be accessed via `http://localhost`.
+   - **Embed HTML in the App**: Instead of loading HTML files from the file system, you can embed the HTML content directly in your app's code and load it into a WebView. This approach eliminates the need for file system access.
+ 
 ## Acknowledgments
 
 The HTML, JavaScript coding scripting information, and seasonal data were collected using GPT-4o mini via Duck.ai and ChatGPT (note: there may be translation errors).
