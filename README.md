@@ -25,6 +25,8 @@ https://github.com/user-attachments/assets/7613c29f-233f-4d4f-a884-95f135208412
 - **Ldapdomaindump**: `domain_users.json` [https://github.com/dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump)
 - **Roadrecon**: `roadrecon.db` [https://github.com/dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools)
 
+https://github.com/user-attachments/assets/190012d2-134b-465b-b7a7-2a28216f5a38
+
 
 
 
